@@ -1,12 +1,10 @@
 # US Healthbot Training (2 day workshop)
 
-presentors: *Hadas Bitran, Oren Barnea, Omri Haviv, Adam Walker*
+**Presenters**: *Hadas Bitran, Oren Barnea, Omri Haviv, Adam Walker*
 
-## Scenarios
+## [Scenarios](scenarios)
 
-- [lab results]
-- [triage]
-- [feedback]
+Training materials we used during our sessions
 
 ## Links to Repos
 
